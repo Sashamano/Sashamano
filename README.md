@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sashamano
-- 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on DotNet
+- 👀 I’m interested in ABAP & Restful API's
+- 🌱 I’m currently working on ABAP Language
+- 💞️ I’m looking to collabrate on ABAP environment
 - 📫 How to reach me mail
 
 <!---
